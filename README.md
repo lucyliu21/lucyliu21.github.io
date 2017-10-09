@@ -1,2 +1,1 @@
-# lucyliu21.github.io
-My Choice and Interested People Choice.
+# MY life, my code and my shit.
