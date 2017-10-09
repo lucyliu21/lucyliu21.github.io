@@ -6,8 +6,8 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/dejavu"><span>Déjà vu</span></a></li>
-            <li style="text-align:right"><a href="/journal"><span>Journal</span></a></li>
+            <li style="text-align:center"><a href="/案例作业分析"><span>案例作业分析</span></a></li>
+            <li style="text-align:right"><a href="/漫思"><span>漫思</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
